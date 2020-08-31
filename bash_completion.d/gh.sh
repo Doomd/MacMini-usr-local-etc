@@ -1,1 +1,1 @@
-../../Cellar/gh/0.7.0/etc/bash_completion.d/gh.sh
+../../Cellar/gh/0.11.1/etc/bash_completion.d/gh.sh
